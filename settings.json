@@ -1,0 +1,71 @@
+{
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.electron": {
+    "frame": false,
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 11,
+      "y": 10
+    }
+  },
+  "apc.font.family": "Inter",
+  "apc.header": {
+    "height": 36
+  },
+  "apc.imports": [
+    "[PATH_IN_YOUR_DEVICE]/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".editor-actions": "display: none",
+    ".pane-header": "padding: 0 8px",
+    ".title-label > h2": "display: none"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 2.2,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.smoothScrolling": true,
+  "explorer.compactFolders": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    ".env": ".env*",
+    "package.json": "prettier*, .*, *.md, tsconfig*, vite*, *.json, Dockerfile, LICENSE, node_modules"
+  },
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  },
+  "prettier.requireConfig": true,
+  "symbols.hidesExplorerArrows": false,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "compact",
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 1,
+  "workbench.activityBar.location": "hidden",
+  "workbench.colorTheme": "Dracula",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "symbols",
+  "workbench.layoutControl.enabled": false,
+  "workbench.list.smoothScrolling": true,
+  "workbench.reduceMotion": "off"
+}
