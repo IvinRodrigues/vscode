@@ -37,6 +37,8 @@ This extension improves the navigation and visualization of files in the VS Code
 ## 5. [VSCode Animations](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
 Add smooth and custom animations to your VS Code, making the user experience more fluid and visually appealing.
 
+**Note:** During installation, make sure to select integration with APC Customize UI++.
+
 ### Key Features:
 - Smooth and customizable animations
 - Enhanced user experience
@@ -52,4 +54,17 @@ GitLens enhances the Git functionality in VS Code, providing advanced insights i
 
 ---
 
-By installing these extensions, you will make your development environment in VS Code more powerful, efficient, and pleasant. Enjoy!
+## Required Fonts
+
+To ensure everything works correctly, please install the following fonts:
+
+1. **Inter**
+   - A highly legible font, great for UI elements and general text.
+
+2. **JetBrains Mono**
+   - A font specifically designed for developers, offering great readability and a pleasant coding experience.
+
+3. **JetBrainsMono Nerd Font**
+   - An extended version of JetBrains Mono that includes icons and symbols, perfect for enhanced development workflows.
+
+By installing these extensions and fonts, you will make your development environment in VS Code more powerful, efficient, and pleasant. Enjoy!
