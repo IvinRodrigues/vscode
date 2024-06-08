@@ -60,11 +60,14 @@ To ensure everything works correctly, please install the following fonts:
 
 1. **Inter**
    - A highly legible font, great for UI elements and general text.
+   - Used in general UI
 
 2. **JetBrains Mono**
    - A font specifically designed for developers, offering great readability and a pleasant coding experience.
+   - Used in code
 
 3. **JetBrainsMono Nerd Font**
    - An extended version of JetBrains Mono that includes icons and symbols, perfect for enhanced development workflows.
+   - Used in terminal
 
 By installing these extensions and fonts, you will make your development environment in VS Code more powerful, efficient, and pleasant. Enjoy!
