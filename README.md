@@ -1,5 +1,3 @@
-# Recommended Extensions for VS Code
-
 ![Preview](./preview.png)
 
 **Note:** The global settings for VS Code are configured in the `settings.json` file.
