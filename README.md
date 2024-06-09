@@ -1,12 +1,18 @@
+# Introduction
+
+These high-end visual configurations are designed to enhance focus and productivity. Feel free to modify them as you see fit.
+
+**Note:** The global settings for VS Code are configured in the `settings.json` file.
+
+# Comparison
+
 ## Before
 ![Preview](https://miro.medium.com/v2/resize:fit:1358/1*6lTReDARgSl00O1M4g8Y5A.png)
 
 ## After
 ![Preview](./preview.png)
 
-These high-end visual configurations are designed to enhance focus and productivity. Feel free to modify them as you see fit.
-
-**Note:** The global settings for VS Code are configured in the `settings.json` file.
+# Extensions
 
 To enhance your development experience in VS Code, I recommend the following extensions:
 
