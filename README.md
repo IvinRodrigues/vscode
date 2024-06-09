@@ -12,6 +12,8 @@ These high-end visual configurations are designed to enhance focus and productiv
 ### After
 ![Preview](./preview.png)
 
+
+
 # Extensions
 
 To enhance your development experience in VS Code, I recommend the following extensions:
@@ -86,6 +88,8 @@ Error Lens enhances error highlighting in your code, making it easier to spot is
 - Customizable error display
 
 ---
+
+
 
 # Required Fonts
 
