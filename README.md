@@ -1,5 +1,7 @@
 ![Preview](./preview.png)
 
+These high-end visual configurations are designed to enhance focus and productivity. Feel free to modify them as you see fit.
+
 **Note:** The global settings for VS Code are configured in the `settings.json` file.
 
 To enhance your development experience in VS Code, I recommend the following extensions:
