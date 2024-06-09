@@ -87,7 +87,7 @@ Error Lens enhances error highlighting in your code, making it easier to spot is
 
 ---
 
-## Required Fonts
+# Required Fonts
 
 To ensure everything works correctly, please install the following fonts:
 
