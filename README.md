@@ -52,6 +52,25 @@ GitLens enhances the Git functionality in VS Code, providing advanced insights i
 - Detailed change history
 - Integration with remote repositories
 
+## 7. [BlurMenu](https://marketplace.visualstudio.com/items?itemName=example.blur-menu)
+This extension adds a blur effect to your VS Code menu, enhancing the visual appeal of your development environment.
+
+**Note:** After activating the extension, you need to configure it manually:
+- Set the blur value to 16 for optimal visual effects.
+- Enable animations when prompted by the extension.
+
+### Key Features:
+- Blur effect for menu
+- Customizable blur intensity
+
+## 8. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+Error Lens enhances error highlighting in your code, making it easier to spot issues at a glance. It provides a more visible and informative display of errors and warnings directly in the editor.
+
+### Key Features:
+- Enhanced error and warning highlighting
+- Informative tooltips
+- Customizable error display
+
 ---
 
 ## Required Fonts
@@ -60,14 +79,11 @@ To ensure everything works correctly, please install the following fonts:
 
 1. **Inter**
    - A highly legible font, great for UI elements and general text.
-   - Used in general UI
 
 2. **JetBrains Mono**
    - A font specifically designed for developers, offering great readability and a pleasant coding experience.
-   - Used in code
 
 3. **JetBrainsMono Nerd Font**
    - An extended version of JetBrains Mono that includes icons and symbols, perfect for enhanced development workflows.
-   - Used in terminal
 
 By installing these extensions and fonts, you will make your development environment in VS Code more powerful, efficient, and pleasant. Enjoy!
