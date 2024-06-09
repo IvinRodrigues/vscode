@@ -1,5 +1,8 @@
-![Preview](./preview.png)
+##Before
 ![Preview](https://miro.medium.com/v2/resize:fit:1358/1*6lTReDARgSl00O1M4g8Y5A.png)
+
+##After
+![Preview](./preview.png)
 
 These high-end visual configurations are designed to enhance focus and productivity. Feel free to modify them as you see fit.
 
