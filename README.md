@@ -1,5 +1,9 @@
 # Recommended Extensions for VS Code
 
+![Preview](./preview.png)
+
+**Note:** The global settings for VS Code are configured in the `settings.json` file.
+
 To enhance your development experience in VS Code, I recommend the following extensions:
 
 ## 1. [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=brandonkirbyson.vscode-animations)
