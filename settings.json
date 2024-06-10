@@ -1,9 +1,4 @@
 {
-  "animations.CursorAnimation": true,
-  "animations.CursorAnimationOptions": {
-    "Color": "#fff",
-    "TrailLength": 32
-  },
   "animations.Install-Method": "Apc Customize UI++",
   "apc.activityBar": {
     "position": "top",
